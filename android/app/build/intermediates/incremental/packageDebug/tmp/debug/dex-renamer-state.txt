@@ -1,0 +1,4 @@
+#Mon Jul 29 17:04:20 IST 2019
+base.0=/home/acquaint/Lucid-Journal/lucid-dreams-react-native/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

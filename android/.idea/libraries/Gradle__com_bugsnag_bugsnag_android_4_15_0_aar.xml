@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bugsnag:bugsnag-android:4.15.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bugsnag-android-4.15.0.aar/a109a2e58bb04d311eef9ce8a151eca5/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bugsnag-android-4.15.0.aar/a109a2e58bb04d311eef9ce8a151eca5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bugsnag-android-4.15.0.aar/a109a2e58bb04d311eef9ce8a151eca5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bugsnag/bugsnag-android/4.15.0/bcd4124b5e7fbd2502d1241c96a08bec3cf335dc/bugsnag-android-4.15.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
